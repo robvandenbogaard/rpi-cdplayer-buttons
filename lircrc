@@ -1,0 +1,132 @@
+begin
+  button = KEY_POWER
+  prog = cdremote
+  config = shutdown
+end
+
+begin
+  button = KEY_RECORD
+  prog = cdremote
+  config = eject
+end
+
+begin
+  button = KEY_STOP
+  prog = cdremote
+  config = stop
+end
+
+begin
+  button = KEY_PLAY
+  prog = cdremote
+  config = play
+end
+
+begin
+  button = KEY_PAUSE
+  prog = cdremote
+  config = pause
+end
+
+begin
+  button = KEY_VOLUMEUP
+  prog = cdremote
+  config = vol+
+end
+
+begin
+  button = KEY_VOLUMEDOWN
+  prog = cdremote
+  config = vol-
+end
+
+begin
+  button = KEY_NEXT
+  prog = cdremote
+  config = next
+end
+
+begin
+  button = KEY_PREVIOUS
+  prog = cdremote
+  config = previous
+end
+
+begin
+  button = KEY_FORWARD
+  prog = cdremote
+  config = seek+
+end
+
+begin
+  button = KEY_REWIND
+  prog = cdremote
+  config = seek-
+end
+
+begin
+  button = KEY_1
+  prog = cdremote
+  config = 1
+end
+
+begin
+  button = KEY_2
+  prog = cdremote
+  config = 2
+end
+
+begin
+  button = KEY_3
+  prog = cdremote
+  config = 3
+end
+
+begin
+  button = KEY_4
+  prog = cdremote
+  config = 4
+end
+
+begin
+  button = KEY_5
+  prog = cdremote
+  config = 5
+end
+
+begin
+  button = KEY_6
+  prog = cdremote
+  config = 6
+end
+
+begin
+  button = KEY_7
+  prog = cdremote
+  config = 7
+end
+
+begin
+  button = KEY_8
+  prog = cdremote
+  config = 8
+end
+
+begin
+  button = KEY_9
+  prog = cdremote
+  config = 9
+end
+
+begin
+  button = KEY_0
+  prog = cdremote
+  config = 0
+end
+
+begin
+  button = KEY_DIGITS
+  prog = cdremote
+  config = digits
+end
+
