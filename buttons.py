@@ -41,6 +41,7 @@ def player(command):
 def do_eject():
   # try toggling the tray, if failed just open it
   os.system("eject -T /dev/sr0 || eject /dev/sr0")
+  player(lambda p: p.stop())
   time.sleep(0.5)
 def do_stop():
   player(lambda p: p.stop())
